@@ -115,3 +115,15 @@ background: none;
 justify-content: center;
 margin-right: 0;
 }
+article{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    display: flex;
+    width: 500px;
+    border-radius: 10px;
+    
+}
